@@ -7,6 +7,6 @@ For the cDC-GAN design, the generator **__G__** and discriminator **__D__** shar
 ## License
 The pytorch/python code for the conditional deep convolutional generative adversarial neural network (cDC-GAN) is under MIT license. See the corresponding folders for details.
 
-## Contace
+## Contact
 Zhi Zhong (zhi.zhong@beg.utexas.edu, zizhong1990@gmail.com)
 Alexander Y. Sun (alex.sun@beg.utexas.edu)
